@@ -1,4 +1,4 @@
-# CPSC113 Social todo app
+# Mack's CPSC113 Social todo app
 
 This is my starter app. It is going to be sick.
 
